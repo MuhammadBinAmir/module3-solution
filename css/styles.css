@@ -24,7 +24,9 @@ body {
 }
 
 @media only screen and (max-width: 991px) and (min-width:768px) {
-
+.topnav{
+  visibility: hidden;
+}
   .container-sm{
   background-color: #0000FF;
   margin-left: 0px;
