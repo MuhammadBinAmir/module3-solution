@@ -7,8 +7,9 @@ body {
 }
 
 .container-md{
-  margin-left: 30px;
-  max-width: 940px;
-  margin-right: 30px;
+  color: #0000FF;
+  margin-left: 40px;
+  max-width: auto;
+  margin-right: 40px;
   
 }
