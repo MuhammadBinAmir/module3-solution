@@ -23,6 +23,10 @@ body {
   
 }
 
+.showdesktop{
+  background: rgba(255,255,255,0.5); 
+}
+
 @media only screen and (max-width: 991px) and (min-width:768px) {
 
   .container-sm{
