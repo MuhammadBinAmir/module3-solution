@@ -40,8 +40,8 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
-#secondname{
-   display: none;
+h1.hidden {
+  display: none;
 }
 
   
