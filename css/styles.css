@@ -22,23 +22,9 @@ body {
   margin-right: 40px;
   
 }
-@media only screen and (max-width: 1051px) and (min-width:992px) {
-.showdesktop{
-  background: rgba(255,255,255,0.5); 
-}
 
-.show{
-   visibility: hidden;
-}
-}
 @media only screen and (max-width: 991px) and (min-width:768px) {
-.showdesktop{
-  background: rgba(255,255,255,0.5); 
-}
 
-.show{
-   visibility: hidden;
-}
   .container-sm{
   background-color: #0000FF;
   margin-left: 0px;
@@ -101,9 +87,7 @@ body {
   color: white;
 }
 
-  .showdesktop{
-   visibility: hidden;
-}
+
   
   .show{
    background: rgba(255,255,255,0.5); 
