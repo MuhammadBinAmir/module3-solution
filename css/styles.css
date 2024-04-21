@@ -94,6 +94,9 @@ body {
   .show{
    background: rgba(255,255,255,0.5); 
   }
+  .onlytablet{
+    visibilty: hidden;
+  }
   .container-xs{
 
   background-color: #FFA500;
