@@ -51,14 +51,14 @@ body {
 
   
   .container-md{
-  background-color:  #FFA500;
+  background-color:  #0000FF;
   margin-left: 70px;
   max-width: auto;
   margin-right: 70px;
   
 }
    .container-sm{
-  background-color: #FFA500;
+  background-color: #0000FF;
   margin-left: 0px;
   max-width: auto;
   margin-right: 0px;
@@ -109,7 +109,7 @@ body {
  
   .container-xs{
 
-  background-color: #FFA500;
+  background-color: #0000FF;
   margin-left: 0px;
   max-width: auto;
   margin-right: 0px;
