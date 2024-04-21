@@ -40,7 +40,11 @@ body {
 }
 
 @media only screen and (max-width: 768px) {
+#secondname{
+   display: none;
+}
 
+  
   .container-md{
   background-color:  #FFA500;
   margin-left: 70px;
