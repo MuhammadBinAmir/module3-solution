@@ -25,7 +25,7 @@ body {
 
 @media only screen and (max-width: 991px) and (min-width:768px) {
 #firstname{
-   visibility: hidden;
+   display: none;
 }
   .container-sm{
   background-color: #0000FF;
