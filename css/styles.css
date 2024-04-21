@@ -19,8 +19,8 @@ body {
   .container-xs{
 
       background-color: #FFA500;
-  margin-left: 40px;
+  margin-left: 0px;
   max-width: auto;
-  margin-right: 40px;
+  margin-right: 0px;
   }
 }
