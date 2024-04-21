@@ -24,9 +24,7 @@ body {
 }
 
 @media only screen and (max-width: 991px) and (min-width:768px) {
-.topnav{
-  visibility: hidden;
-}
+
   .container-sm{
   background-color: #0000FF;
   margin-left: 0px;
@@ -94,9 +92,7 @@ body {
   .show{
    background: rgba(255,255,255,0.5); 
   }
-  .onlytablet{
-    visibilty: hidden;
-  }
+ 
   .container-xs{
 
   background-color: #FFA500;
