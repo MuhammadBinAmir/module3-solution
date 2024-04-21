@@ -1,5 +1,8 @@
 body {
   overflow-x: hidden; 
+  
+}
+
   .topnav {
   overflow: hidden;
   background-color: #333;
@@ -36,7 +39,8 @@ body {
   color: white;
 }
 
-}
+
+
 
 .head{
   text-align: center;
