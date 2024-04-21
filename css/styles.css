@@ -1,8 +1,5 @@
-#main_wrap{
-    margin:0 auto;
-
-    position:relative;
-    overflow: hidden;
+body {
+  overflow: hidden; /* Hide scrollbars */
 }
 
 .container-md{
